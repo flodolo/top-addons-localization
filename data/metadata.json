@@ -1,0 +1,893 @@
+{
+  "uBlock0@raymondhill.net": {
+    "ranking": 1,
+    "slug": "uBlock0@raymondhill.net",
+    "version": "1.47.4",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4079064/ublock_origin-1.47.4.xpi",
+    "name": "uBlock Origin",
+    "average_daily_users": 6460855,
+    "local_folder": "ublock_origin_1_47_4"
+  },
+  "{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}": {
+    "ranking": 2,
+    "slug": "{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}",
+    "version": "3.16.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4067141/adblock_plus-3.16.1.xpi",
+    "name": "Adblock Plus",
+    "average_daily_users": 4819550,
+    "local_folder": "adblock_plus_3_16_1"
+  },
+  "easyscreenshot@mozillaonline.com": {
+    "ranking": 3,
+    "slug": "easyscreenshot@mozillaonline.com",
+    "version": "3.109",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4049242/easyscreenshot-3.109.xpi",
+    "name": "Easy Screenshot",
+    "average_daily_users": 3553745,
+    "local_folder": "easyscreenshot_3_109"
+  },
+  "adblockultimate@adblockultimate.net": {
+    "ranking": 4,
+    "slug": "adblockultimate@adblockultimate.net",
+    "version": "3.7.21",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4060704/adblocker_ultimate-3.7.21.xpi",
+    "name": "AdBlocker Ultimate",
+    "average_daily_users": 2102243,
+    "local_folder": "adblocker_ultimate_3_7_21"
+  },
+  "{b9db16a4-6edc-47ec-a1f4-b86292ed211d}": {
+    "ranking": 5,
+    "slug": "{b9db16a4-6edc-47ec-a1f4-b86292ed211d}",
+    "version": "7.6.6",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4040817/video_downloadhelper-7.6.6.xpi",
+    "name": "Video DownloadHelper",
+    "average_daily_users": 1993719,
+    "local_folder": "video_downloadhelper_7_6_6"
+  },
+  "jid1-ZAdIEUB7XOzOJw@jetpack": {
+    "ranking": 6,
+    "slug": "jid1-ZAdIEUB7XOzOJw@jetpack",
+    "version": "2023.2.16",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4071699/duckduckgo_for_firefox-2023.2.16.xpi",
+    "name": "DuckDuckGo Privacy Essentials",
+    "average_daily_users": 1668869,
+    "local_folder": "duckduckgo_for_firefox_2023_2_16"
+  },
+  "ciscowebexstart1@cisco.com": {
+    "ranking": 7,
+    "slug": "ciscowebexstart1@cisco.com",
+    "version": "1.20.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3978942/cisco_webex_extension-1.20.2.xpi",
+    "name": "Cisco Webex Extension",
+    "average_daily_users": 1389934,
+    "local_folder": "cisco_webex_extension_1_20_2"
+  },
+  "@contain-facebook": {
+    "ranking": 8,
+    "slug": "@contain-facebook",
+    "version": "2.3.9",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4024031/facebook_container-2.3.9.xpi",
+    "name": "Facebook Container",
+    "average_daily_users": 1195781,
+    "local_folder": "facebook_container_2_3_9"
+  },
+  "firefox@ghostery.com": {
+    "ranking": 9,
+    "slug": "firefox@ghostery.com",
+    "version": "8.9.9",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4075016/ghostery-8.9.9.xpi",
+    "name": "Ghostery – Privacy Ad Blocker",
+    "average_daily_users": 1152484,
+    "local_folder": "ghostery_8_9_9"
+  },
+  "jid1-NIfFY2CA8fy1tg@jetpack": {
+    "ranking": 10,
+    "slug": "jid1-NIfFY2CA8fy1tg@jetpack",
+    "version": "5.4.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4074059/adblock_for_firefox-5.4.2.xpi",
+    "name": "AdBlock for Firefox",
+    "average_daily_users": 1140152,
+    "local_folder": "adblock_for_firefox_5_4_2"
+  },
+  "jid1-MnnxcxisBPnSXQ@jetpack": {
+    "ranking": 11,
+    "slug": "jid1-MnnxcxisBPnSXQ@jetpack",
+    "version": "2023.1.31",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4064595/privacy_badger17-2023.1.31.xpi",
+    "name": "Privacy Badger",
+    "average_daily_users": 1124619,
+    "local_folder": "privacy_badger17_2023_1_31"
+  },
+  "jid1-93WyvpgvxzGATw@jetpack": {
+    "ranking": 12,
+    "slug": "jid1-93WyvpgvxzGATw@jetpack",
+    "version": "4.2.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3798719/to_google_translate-4.2.0.xpi",
+    "name": "To Google Translate",
+    "average_daily_users": 1051016,
+    "local_folder": "to_google_translate_4_2_0"
+  },
+  "addon@darkreader.org": {
+    "ranking": 13,
+    "slug": "addon@darkreader.org",
+    "version": "4.9.62",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4053589/darkreader-4.9.62.xpi",
+    "name": "Dark Reader",
+    "average_daily_users": 985529,
+    "local_folder": "darkreader_4_9_62"
+  },
+  "jid1-93CWPmRbVPjRQA@jetpack": {
+    "ranking": 14,
+    "slug": "jid1-93CWPmRbVPjRQA@jetpack",
+    "version": "12.8.4",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3731265/honey-12.8.4.xpi",
+    "name": "Honey",
+    "average_daily_users": 950232,
+    "local_folder": "honey_12_8_4"
+  },
+  "adguardadblocker@adguard.com": {
+    "ranking": 15,
+    "slug": "adguardadblocker@adguard.com",
+    "version": "4.1.53",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4046830/adguard_adblocker-4.1.53.xpi",
+    "name": "AdGuard AdBlocker",
+    "average_daily_users": 920807,
+    "local_folder": "adguard_adblocker_4_1_53"
+  },
+  "87677a2c52b84ad3a151a4a72f5bd3c4@jetpack": {
+    "ranking": 16,
+    "slug": "87677a2c52b84ad3a151a4a72f5bd3c4@jetpack",
+    "version": "8.904.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4002770/grammarly_1-8.904.0.xpi",
+    "name": "Grammarly: Grammar Checker and Writing App",
+    "average_daily_users": 868977,
+    "local_folder": "grammarly_1_8_904_0"
+  },
+  "nortonsafeweb@symantec.com": {
+    "ranking": 17,
+    "slug": "nortonsafeweb@symantec.com",
+    "version": "3.19.0.74",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4054541/norton_safe_web-3.19.0.74.xpi",
+    "name": "Norton Safe Web",
+    "average_daily_users": 761435,
+    "local_folder": "norton_safe_web_3_19_0_74"
+  },
+  "enhancerforyoutube@maximerf.addons.mozilla.org": {
+    "ranking": 18,
+    "slug": "enhancerforyoutube@maximerf.addons.mozilla.org",
+    "version": "2.0.117.10",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4040535/enhancer_for_youtube-2.0.117.10.xpi",
+    "name": "Enhancer for YouTube™",
+    "average_daily_users": 730960,
+    "local_folder": "enhancer_for_youtube_2_0_117_10"
+  },
+  "mozilla_cc3@internetdownloadmanager.com": {
+    "ranking": 19,
+    "slug": "mozilla_cc3@internetdownloadmanager.com",
+    "version": "6.41.7.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077368/tonec_idm_integration_module-6.41.7.2.xpi",
+    "name": "IDM Integration Module",
+    "average_daily_users": 711440,
+    "local_folder": "tonec_idm_integration_module_6_41_7_2"
+  },
+  "support@lastpass.com": {
+    "ranking": 20,
+    "slug": "support@lastpass.com",
+    "version": "4.110.1.3",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077983/lastpass_password_manager-4.110.1.3.xpi",
+    "name": "LastPass Password Manager",
+    "average_daily_users": 671445,
+    "local_folder": "lastpass_password_manager_4_110_1_3"
+  },
+  "{036a55b4-5e72-4d05-a06c-cba2dfcc134a}": {
+    "ranking": 21,
+    "slug": "{036a55b4-5e72-4d05-a06c-cba2dfcc134a}",
+    "version": "9.6.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4011167/traduzir_paginas_web-9.6.1.xpi",
+    "name": "TWP - Translate Web Pages",
+    "average_daily_users": 659965,
+    "local_folder": "traduzir_paginas_web_9_6_1"
+  },
+  "{446900e4-71c2-419f-a6a7-df9c091e268b}": {
+    "ranking": 22,
+    "slug": "{446900e4-71c2-419f-a6a7-df9c091e268b}",
+    "version": "2023.2.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4071765/bitwarden_password_manager-2023.2.1.xpi",
+    "name": "Bitwarden - Free Password Manager",
+    "average_daily_users": 620429,
+    "local_folder": "bitwarden_password_manager_2023_2_1"
+  },
+  "{b9acf540-acba-11e1-8ccb-001fd0e08bd4}": {
+    "ranking": 23,
+    "slug": "{b9acf540-acba-11e1-8ccb-001fd0e08bd4}",
+    "version": "18.3",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4024278/easy_youtube_video_download-18.3.xpi",
+    "name": "Easy Youtube Video Downloader Express",
+    "average_daily_users": 602979,
+    "local_folder": "easy_youtube_video_download_18_3"
+  },
+  "firefox@tampermonkey.net": {
+    "ranking": 25,
+    "slug": "firefox@tampermonkey.net",
+    "version": "4.18.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4030629/tampermonkey-4.18.1.xpi",
+    "name": "Tampermonkey",
+    "average_daily_users": 577421,
+    "local_folder": "tampermonkey_4_18_1"
+  },
+  "{242af0bb-db11-4734-b7a0-61cb8a9b20fb}": {
+    "ranking": 26,
+    "slug": "{242af0bb-db11-4734-b7a0-61cb8a9b20fb}",
+    "version": "2.5.8",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4073966/malwarebytes-2.5.8.xpi",
+    "name": "Malwarebytes Browser Guard",
+    "average_daily_users": 559133,
+    "local_folder": "malwarebytes_2_5_8"
+  },
+  "light_plugin_7571494CE0B94E11BB762B659A4AD71F@kaspersky.com": {
+    "ranking": 27,
+    "slug": "light_plugin_7571494CE0B94E11BB762B659A4AD71F@kaspersky.com",
+    "version": "2.3.16.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4047980/kaspersky_protection_2021-2.3.16.0.xpi",
+    "name": "Kaspersky Protection 2021",
+    "average_daily_users": 524679,
+    "local_folder": "kaspersky_protection_2021_2_3_16_0"
+  },
+  "webextension@metamask.io": {
+    "ranking": 28,
+    "slug": "webextension@metamask.io",
+    "version": "10.25.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4073640/ether_metamask-10.25.0.xpi",
+    "name": "MetaMask",
+    "average_daily_users": 517911,
+    "local_folder": "ether_metamask_10_25_0"
+  },
+  "jid1-q4sG8pYhq8KGHs@jetpack": {
+    "ranking": 29,
+    "slug": "jid1-q4sG8pYhq8KGHs@jetpack",
+    "version": "0.3.6",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4053171/adblock_for_youtube-0.3.6.xpi",
+    "name": "AdBlocker for YouTube™",
+    "average_daily_users": 517876,
+    "local_folder": "adblock_for_youtube_0_3_6"
+  },
+  "{aff8af88-06a9-4eee-b383-3af08c47b8c8}": {
+    "ranking": 30,
+    "slug": "{aff8af88-06a9-4eee-b383-3af08c47b8c8}",
+    "version": "0.1.1040",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3927519/wikibuy_for_firefox-0.1.1040.xpi",
+    "name": "Capital One Shopping: Online Coupon Tool",
+    "average_daily_users": 493967,
+    "local_folder": "wikibuy_for_firefox_0_1_1040"
+  },
+  "helper@savefrom.net": {
+    "ranking": 31,
+    "slug": "helper@savefrom.net",
+    "version": "9.91",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4065451/savefromnet_helper-9.91.xpi",
+    "name": "SaveFrom.net helper all-in-1 / youtube downloader",
+    "average_daily_users": 469395,
+    "local_folder": "savefromnet_helper_9_91"
+  },
+  "{762f9885-5a13-4abd-9c77-433dcd38b8fd}": {
+    "ranking": 32,
+    "slug": "{762f9885-5a13-4abd-9c77-433dcd38b8fd}",
+    "version": "3.0.0.8",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4072734/return_youtube_dislikes-3.0.0.8.xpi",
+    "name": "Return YouTube Dislike",
+    "average_daily_users": 460507,
+    "local_folder": "return_youtube_dislikes_3_0_0_8"
+  },
+  "firefox@betterttv.net": {
+    "ranking": 33,
+    "slug": "firefox@betterttv.net",
+    "version": "7.5.3",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4078007/betterttv-7.5.3.xpi",
+    "name": "BetterTTV",
+    "average_daily_users": 443563,
+    "local_folder": "betterttv_7_5_3"
+  },
+  "browsec@browsec.com": {
+    "ranking": 34,
+    "slug": "browsec@browsec.com",
+    "version": "3.64.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4065021/browsec-3.64.0.xpi",
+    "name": "Browsec VPN - Free VPN for Firefox",
+    "average_daily_users": 439962,
+    "local_folder": "browsec_3_64_0"
+  },
+  "sovetnik@metabar.ru": {
+    "ranking": 35,
+    "slug": "sovetnik@metabar.ru",
+    "version": "3.1.18.62",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3715448/sovetnik-3.1.18.62.xpi",
+    "name": "sovetnik@metabar.ru",
+    "average_daily_users": 416372,
+    "local_folder": "sovetnik_3_1_18_62"
+  },
+  "idsafe@norton.com": {
+    "ranking": 36,
+    "slug": "idsafe@norton.com",
+    "version": "8.0.1.29",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4054459/norton_password_manager-8.0.1.29.xpi",
+    "name": "Norton Password Manager",
+    "average_daily_users": 409445,
+    "local_folder": "norton_password_manager_8_0_1_29"
+  },
+  "webrootsecure@webroot.com": {
+    "ranking": 37,
+    "slug": "webrootsecure@webroot.com",
+    "version": "2.1.22286.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4016679/web_threat_shield-2.1.22286.1.xpi",
+    "name": "Web Threat Shield",
+    "average_daily_users": 404963,
+    "local_folder": "web_threat_shield_2_1_22286_1"
+  },
+  "{d04b0b40-3dab-4f0b-97a6-04ec3eddbfb0}": {
+    "ranking": 38,
+    "slug": "{d04b0b40-3dab-4f0b-97a6-04ec3eddbfb0}",
+    "version": "4.1.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3960424/ecosia_the_green_search-4.1.0.xpi",
+    "name": "Ecosia — The search engine that plants trees 🌱",
+    "average_daily_users": 376845,
+    "local_folder": "ecosia_the_green_search_4_1_0"
+  },
+  "@testpilot-containers": {
+    "ranking": 39,
+    "slug": "@testpilot-containers",
+    "version": "8.1.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4058426/multi_account_containers-8.1.2.xpi",
+    "name": "Firefox Multi-Account Containers",
+    "average_daily_users": 337141,
+    "local_folder": "multi_account_containers_8_1_2"
+  },
+  "{73a6fe31-595d-460b-a920-fcc0f8843232}": {
+    "ranking": 40,
+    "slug": "{73a6fe31-595d-460b-a920-fcc0f8843232}",
+    "version": "11.4.18",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077959/noscript-11.4.18.xpi",
+    "name": "NoScript Security Suite",
+    "average_daily_users": 328108,
+    "local_folder": "noscript_11_4_18"
+  },
+  "jid1-KKzOGWgsW3Ao4Q@jetpack": {
+    "ranking": 41,
+    "slug": "jid1-KKzOGWgsW3Ao4Q@jetpack",
+    "version": "3.4.6",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4071150/i_dont_care_about_cookies-3.4.6.xpi",
+    "name": "I don't care about cookies",
+    "average_daily_users": 324790,
+    "local_folder": "i_dont_care_about_cookies_3_4_6"
+  },
+  "translator@zoli.bod": {
+    "ranking": 42,
+    "slug": "translator@zoli.bod",
+    "version": "3.0.3.3",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/1167275/google_translator_for_firefox-3.0.3.3.xpi",
+    "name": "Google Translator for Firefox",
+    "average_daily_users": 286368,
+    "local_folder": "google_translator_for_firefox_3_0_3_3"
+  },
+  "sponsorBlocker@ajay.app": {
+    "ranking": 43,
+    "slug": "sponsorBlocker@ajay.app",
+    "version": "5.1.13",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4064410/sponsorblock-5.1.13.xpi",
+    "name": "sponsorBlocker@ajay.app",
+    "average_daily_users": 283210,
+    "local_folder": "sponsorblock_5_1_13"
+  },
+  "{d634138d-c276-4fc8-924b-40a0ea21d284}": {
+    "ranking": 44,
+    "slug": "{d634138d-c276-4fc8-924b-40a0ea21d284}",
+    "version": "2.6.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4061902/1password_x_password_manager-2.6.0.xpi",
+    "name": "1Password",
+    "average_daily_users": 274397,
+    "local_folder": "1password_x_password_manager_2_6_0"
+  },
+  "appledev@soarinfotech.com": {
+    "ranking": 45,
+    "slug": "appledev@soarinfotech.com",
+    "version": "6.0.32",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4078251/coupert-6.0.32.xpi",
+    "name": "Coupert - Automatic Coupon Finder & Cashback",
+    "average_daily_users": 271890,
+    "local_folder": "coupert_6_0_32"
+  },
+  "{bf855ead-d7c3-4c7b-9f88-9a7e75c0efdf}": {
+    "ranking": 46,
+    "slug": "{bf855ead-d7c3-4c7b-9f88-9a7e75c0efdf}",
+    "version": "2.1.39",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4079676/zoom_new_scheduler-2.1.39.xpi",
+    "name": "Zoom Scheduler",
+    "average_daily_users": 268534,
+    "local_folder": "zoom_new_scheduler_2_1_39"
+  },
+  "jid1-BoFifL9Vbdl2zQ@jetpack": {
+    "ranking": 47,
+    "slug": "jid1-BoFifL9Vbdl2zQ@jetpack",
+    "version": "2.0.17",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3902154/decentraleyes-2.0.17.xpi",
+    "name": "Decentraleyes",
+    "average_daily_users": 266277,
+    "local_folder": "decentraleyes_2_0_17"
+  },
+  "jid1-xUfzOsOFlzSOXg@jetpack": {
+    "ranking": 48,
+    "slug": "jid1-xUfzOsOFlzSOXg@jetpack",
+    "version": "5.22.15",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4047244/reddit_enhancement_suite-5.22.15.xpi",
+    "name": "Reddit Enhancement Suite",
+    "average_daily_users": 259387,
+    "local_folder": "reddit_enhancement_suite_5_22_15"
+  },
+  "{2e5ff8c8-32fe-46d0-9fc8-6b8986621f3c}": {
+    "ranking": 49,
+    "slug": "{2e5ff8c8-32fe-46d0-9fc8-6b8986621f3c}",
+    "version": "5.4.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4034617/search_by_image-5.4.2.xpi",
+    "name": "Search by Image",
+    "average_daily_users": 256678,
+    "local_folder": "search_by_image_5_4_2"
+  },
+  "abb@amazon.com": {
+    "ranking": 50,
+    "slug": "abb@amazon.com",
+    "version": "10.2103.25.10303",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3751432/amazon_browser_bar-10.2103.25.10303.xpi",
+    "name": "Amazon Assistant for Firefox",
+    "average_daily_users": 256543,
+    "local_folder": "amazon_browser_bar_10_2103_25_10303"
+  },
+  "languagetool-webextension@languagetool.org": {
+    "ranking": 51,
+    "slug": "languagetool-webextension@languagetool.org",
+    "version": "6.2.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077145/languagetool-6.2.2.xpi",
+    "name": "Grammar and Spell Checker - LanguageTool",
+    "average_daily_users": 249195,
+    "local_folder": "languagetool_6_2_2"
+  },
+  "{20fc2e06-e3e4-4b2b-812b-ab431220cada}": {
+    "ranking": 52,
+    "slug": "{20fc2e06-e3e4-4b2b-812b-ab431220cada}",
+    "version": "1.3.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3421533/startpage_private_search-1.3.0.xpi",
+    "name": "Startpage — Private Search Engine",
+    "average_daily_users": 237869,
+    "local_folder": "startpage_private_search_1_3_0"
+  },
+  "simple-translate@sienori": {
+    "ranking": 53,
+    "slug": "simple-translate@sienori",
+    "version": "2.8.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4072586/simple_translate-2.8.1.xpi",
+    "name": "Simple Translate",
+    "average_daily_users": 235535,
+    "local_folder": "simple_translate_2_8_1"
+  },
+  "@hoxx-vpn": {
+    "ranking": 54,
+    "slug": "@hoxx-vpn",
+    "version": "3.11.14",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4037057/hoxx_vpn_proxy-3.11.14.xpi",
+    "name": "Hoxx VPN Proxy",
+    "average_daily_users": 233032,
+    "local_folder": "hoxx_vpn_proxy_3_11_14"
+  },
+  "wrc@avast.com": {
+    "ranking": 55,
+    "slug": "wrc@avast.com",
+    "version": "22.11.180",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4075502/avast_online_security-22.11.180.xpi",
+    "name": "Avast Online Security & Privacy",
+    "average_daily_users": 227881,
+    "local_folder": "avast_online_security_22_11_180"
+  },
+  "Find_Manuals_Now___Custom_Web_Search_TcURqcnjqD@findmanualsnow.com": {
+    "ranking": 56,
+    "slug": "Find_Manuals_Now___Custom_Web_Search_TcURqcnjqD@findmanualsnow.com",
+    "version": "1.0.0.5",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3880854/findmanualsnowcustomwebsearch-1.0.0.5.xpi",
+    "name": "Find Manuals Now & Custom Web Search",
+    "average_daily_users": 226331,
+    "local_folder": "findmanualsnowcustomwebsearch_1_0_0_5"
+  },
+  "{DDC359D1-844A-42a7-9AA1-88A850A938A8}": {
+    "ranking": 57,
+    "slug": "{DDC359D1-844A-42a7-9AA1-88A850A938A8}",
+    "version": "4.8.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4073703/downthemall-4.8.1.xpi",
+    "name": "DownThemAll!",
+    "average_daily_users": 220791,
+    "local_folder": "downthemall_4_8_1"
+  },
+  "{e4a8a97b-f2ed-450b-b12d-ee082ba24781}": {
+    "ranking": 58,
+    "slug": "{e4a8a97b-f2ed-450b-b12d-ee082ba24781}",
+    "version": "4.11",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3716451/greasemonkey-4.11.xpi",
+    "name": "Greasemonkey",
+    "average_daily_users": 219761,
+    "local_folder": "greasemonkey_4_11"
+  },
+  "jid1-YcMV6ngYmQRA2w@jetpack": {
+    "ranking": 59,
+    "slug": "jid1-YcMV6ngYmQRA2w@jetpack",
+    "version": "4.2.103",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3916013/pinterest-4.2.103.xpi",
+    "name": "Pinterest Save Button",
+    "average_daily_users": 218131,
+    "local_folder": "pinterest_4_2_103"
+  },
+  "foxyproxy@eric.h.jung": {
+    "ranking": 60,
+    "slug": "foxyproxy@eric.h.jung",
+    "version": "7.5.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3616824/foxyproxy_standard-7.5.1.xpi",
+    "name": "FoxyProxy Standard",
+    "average_daily_users": 208306,
+    "local_folder": "foxyproxy_standard_7_5_1"
+  },
+  "ffext_basicvideoext@startpage24": {
+    "ranking": 61,
+    "slug": "ffext_basicvideoext@startpage24",
+    "version": "2.0.9",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3919982/video_downloader_profession-2.0.9.xpi",
+    "name": "Video Downloader professional",
+    "average_daily_users": 200644,
+    "local_folder": "video_downloader_profession_2_0_9"
+  },
+  "CookieAutoDelete@kennydo.com": {
+    "ranking": 62,
+    "slug": "CookieAutoDelete@kennydo.com",
+    "version": "3.8.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4040738/cookie_autodelete-3.8.2.xpi",
+    "name": "Cookie AutoDelete",
+    "average_daily_users": 191964,
+    "local_folder": "cookie_autodelete_3_8_2"
+  },
+  "{f73df109-8fb4-453e-8373-f59e61ca4da3}": {
+    "ranking": 63,
+    "slug": "{f73df109-8fb4-453e-8373-f59e61ca4da3}",
+    "version": "1.2.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3901737/youtube_downloader_webx-1.2.1.xpi",
+    "name": "YouTube Video and Audio Downloader (WebEx)",
+    "average_daily_users": 182625,
+    "local_folder": "youtube_downloader_webx_1_2_1"
+  },
+  "belgiumeid@eid.belgium.be": {
+    "ranking": 64,
+    "slug": "belgiumeid@eid.belgium.be",
+    "version": "1.0.32",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3736679/belgium_eid-1.0.32.xpi",
+    "name": "Belgium eID",
+    "average_daily_users": 178428,
+    "local_folder": "belgium_eid_1_0_32"
+  },
+  "firefoxdav@icloud.com": {
+    "ranking": 65,
+    "slug": "firefoxdav@icloud.com",
+    "version": "2.3.40",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4031495/icloud_bookmarks-2.3.40.xpi",
+    "name": "iCloud Bookmarks",
+    "average_daily_users": 176599,
+    "local_folder": "icloud_bookmarks_2_3_40"
+  },
+  "treestyletab@piro.sakura.ne.jp": {
+    "ranking": 66,
+    "slug": "treestyletab@piro.sakura.ne.jp",
+    "version": "3.9.12",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4053198/tree_style_tab-3.9.12.xpi",
+    "name": "Tree Style Tab",
+    "average_daily_users": 176214,
+    "local_folder": "tree_style_tab_3_9_12"
+  },
+  "amptra@keepa.com": {
+    "ranking": 67,
+    "slug": "amptra@keepa.com",
+    "version": "4.10",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4041807/keepa-4.10.xpi",
+    "name": "Keepa.com - Amazon Price Tracker",
+    "average_daily_users": 173491,
+    "local_folder": "keepa_4_10"
+  },
+  "@react-devtools": {
+    "ranking": 68,
+    "slug": "@react-devtools",
+    "version": "4.27.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4040280/react_devtools-4.27.1.xpi",
+    "name": "React Developer Tools",
+    "average_daily_users": 166680,
+    "local_folder": "react_devtools_4_27_1"
+  },
+  "{7ef0f00c-2ebe-4626-8ed7-3185847fcfad}": {
+    "ranking": 69,
+    "slug": "{7ef0f00c-2ebe-4626-8ed7-3185847fcfad}",
+    "version": "2.2.4",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077813/7tv-2.2.4.xpi",
+    "name": "7TV",
+    "average_daily_users": 166021,
+    "local_folder": "7tv_2_2_4"
+  },
+  "{0b457cAA-602d-484a-8fe7-c1d894a011ba}": {
+    "ranking": 70,
+    "slug": "{0b457cAA-602d-484a-8fe7-c1d894a011ba}",
+    "version": "1.11.25",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4053938/fireshot-1.11.25.xpi",
+    "name": "FireShot: Full Web Page Screenshots (♥♥♥♥♥)",
+    "average_daily_users": 165191,
+    "local_folder": "fireshot_1_11_25"
+  },
+  "video-bg-play@timdream.org": {
+    "ranking": 71,
+    "slug": "video-bg-play@timdream.org",
+    "version": "1.6.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3764692/video_background_play_fix-1.6.0.xpi",
+    "name": "Video Background Play Fix",
+    "average_daily_users": 157940,
+    "local_folder": "video_background_play_fix_1_6_0"
+  },
+  "{35d6291e-1d4b-f9b4-c52f-77e6410d1326}": {
+    "ranking": 72,
+    "slug": "{35d6291e-1d4b-f9b4-c52f-77e6410d1326}",
+    "version": "5.24.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4072057/ebates-5.24.0.xpi",
+    "name": "Rakuten: Get Cash Back For Shopping",
+    "average_daily_users": 156934,
+    "local_folder": "ebates_5_24_0"
+  },
+  "abs@avira.com": {
+    "ranking": 73,
+    "slug": "abs@avira.com",
+    "version": "4.2.7.23601",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3938362/avira_browser_safety-4.2.7.23601.xpi",
+    "name": "Avira Browser Safety",
+    "average_daily_users": 156591,
+    "local_folder": "avira_browser_safety_4_2_7_23601"
+  },
+  "{9AA46F4F-4DC7-4c06-97AF-5035170634FE}": {
+    "ranking": 74,
+    "slug": "{9AA46F4F-4DC7-4c06-97AF-5035170634FE}",
+    "version": "16.38",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4060772/imtranslator-16.38.xpi",
+    "name": "ImTranslator: Translator, Dictionary, TTS",
+    "average_daily_users": 153404,
+    "local_folder": "imtranslator_16_38"
+  },
+  "qwantcomforfirefox@jetpack": {
+    "ranking": 75,
+    "slug": "qwantcomforfirefox@jetpack",
+    "version": "7.0.4.9",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3996872/qwantcom_for_firefox-7.0.4.9.xpi",
+    "name": "Qwant VIPrivacy",
+    "average_daily_users": 152194,
+    "local_folder": "qwantcom_for_firefox_7_0_4_9"
+  },
+  "{6AC85730-7D0F-4de0-B3FA-21142DD85326}": {
+    "ranking": 76,
+    "slug": "{6AC85730-7D0F-4de0-B3FA-21142DD85326}",
+    "version": "3.3",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/595546/colorzilla-3.3.xpi",
+    "name": "ColorZilla",
+    "average_daily_users": 151308,
+    "local_folder": "colorzilla_3_3"
+  },
+  "chrome-gnome-shell@gnome.org": {
+    "ranking": 77,
+    "slug": "chrome-gnome-shell@gnome.org",
+    "version": "11.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3974897/gnome_shell_integration-11.1.xpi",
+    "name": "GNOME Shell integration",
+    "average_daily_users": 150434,
+    "local_folder": "gnome_shell_integration_11_1"
+  },
+  "{7b1bf0b6-a1b9-42b0-b75d-252036438bdc}": {
+    "ranking": 78,
+    "slug": "{7b1bf0b6-a1b9-42b0-b75d-252036438bdc}",
+    "version": "109.0.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4067111/youtube_high_definition-109.0.0.xpi",
+    "name": "YouTube High Definition",
+    "average_daily_users": 147803,
+    "local_folder": "youtube_high_definition_109_0_0"
+  },
+  "nordvpnproxy@nordvpn.com": {
+    "ranking": 79,
+    "slug": "nordvpnproxy@nordvpn.com",
+    "version": "2.73.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077168/nordvpn_proxy_extension-2.73.1.xpi",
+    "name": "NordVPN – A VPN Proxy Extension for Firefox",
+    "average_daily_users": 143938,
+    "local_folder": "nordvpn_proxy_extension_2_73_1"
+  },
+  "private-relay@firefox.com": {
+    "ranking": 80,
+    "slug": "private-relay@firefox.com",
+    "version": "2.6.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4036509/private_relay-2.6.1.xpi",
+    "name": "Firefox Relay",
+    "average_daily_users": 143726,
+    "local_folder": "private_relay_2_6_1"
+  },
+  "{84380428-8c9d-4bdf-913d-b2c34d6562d9}": {
+    "ranking": 81,
+    "slug": "{84380428-8c9d-4bdf-913d-b2c34d6562d9}",
+    "version": "6.60.90",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/800534/logitechsmoothscrolling-6.60.90.xpi",
+    "name": "Logitech Smooth Scrolling",
+    "average_daily_users": 143459,
+    "local_folder": "logitechsmoothscrolling_6_60_90"
+  },
+  "extension@one-tab.com": {
+    "ranking": 82,
+    "slug": "extension@one-tab.com",
+    "version": "1.59",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3946687/onetab-1.59.xpi",
+    "name": "OneTab",
+    "average_daily_users": 136754,
+    "local_folder": "onetab_1_59"
+  },
+  "{5384767E-00D9-40E9-B72F-9CC39D655D6F}": {
+    "ranking": 83,
+    "slug": "{5384767E-00D9-40E9-B72F-9CC39D655D6F}",
+    "version": "2.0.13",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3594370/epubreader-2.0.13.xpi",
+    "name": "EPUBReader",
+    "average_daily_users": 132554,
+    "local_folder": "epubreader_2_0_13"
+  },
+  "Tab-Session-Manager@sienori": {
+    "ranking": 84,
+    "slug": "Tab-Session-Manager@sienori",
+    "version": "6.12.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4002882/tab_session_manager-6.12.1.xpi",
+    "name": "Tab Session Manager",
+    "average_daily_users": 130093,
+    "local_folder": "tab_session_manager_6_12_1"
+  },
+  "Maps_Assist___Custom_Web_Search_VeyzPDMlKh@mapsassist.com": {
+    "ranking": 85,
+    "slug": "Maps_Assist___Custom_Web_Search_VeyzPDMlKh@mapsassist.com",
+    "version": "1.0.0.5",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3880866/mapsassistcustomwebsearch-1.0.0.5.xpi",
+    "name": "Maps Assist & Custom Web Search",
+    "average_daily_users": 127150,
+    "local_folder": "mapsassistcustomwebsearch_1_0_0_5"
+  },
+  "{1018e4d6-728f-4b20-ad56-37578a4de76b}": {
+    "ranking": 86,
+    "slug": "{1018e4d6-728f-4b20-ad56-37578a4de76b}",
+    "version": "6.1.60",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4077652/flagfox-6.1.60.xpi",
+    "name": "Flagfox",
+    "average_daily_users": 126649,
+    "local_folder": "flagfox_6_1_60"
+  },
+  "firefox-webext@zenmate.com": {
+    "ranking": 87,
+    "slug": "firefox-webext@zenmate.com",
+    "version": "8.2.3",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3944580/zenmate_free_vpn_best-8.2.3.xpi",
+    "name": "ZenMate Free VPN",
+    "average_daily_users": 125626,
+    "local_folder": "zenmate_free_vpn_best_8_2_3"
+  },
+  "ols@f-secure.com": {
+    "ranking": 88,
+    "slug": "ols@f-secure.com",
+    "version": "4.1.72",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4036392/ols_f_secure-4.1.72.xpi",
+    "name": "Browsing Protection by F-Secure",
+    "average_daily_users": 123018,
+    "local_folder": "ols_f_secure_4_1_72"
+  },
+  "{74145f27-f039-47ce-a470-a662b129930a}": {
+    "ranking": 89,
+    "slug": "{74145f27-f039-47ce-a470-a662b129930a}",
+    "version": "1.26.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4064884/clearurls-1.26.1.xpi",
+    "name": "ClearURLs",
+    "average_daily_users": 122532,
+    "local_folder": "clearurls_1_26_1"
+  },
+  "@setupvpncom": {
+    "ranking": 90,
+    "slug": "@setupvpncom",
+    "version": "3.12.15",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4068582/setupvpn-3.12.15.xpi",
+    "name": "SetupVPN Lifetime Free VPN",
+    "average_daily_users": 122386,
+    "local_folder": "setupvpn_3_12_15"
+  },
+  "FirefoxColor@mozilla.com": {
+    "ranking": 91,
+    "slug": "FirefoxColor@mozilla.com",
+    "version": "2.1.7",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3643624/firefox_color-2.1.7.xpi",
+    "name": "Firefox Color",
+    "average_daily_users": 117928,
+    "local_folder": "firefox_color_2_1_7"
+  },
+  "button@scholar.google.com": {
+    "ranking": 92,
+    "slug": "button@scholar.google.com",
+    "version": "3.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3656589/google_scholar_button-3.1.xpi",
+    "name": "Google Scholar Button",
+    "average_daily_users": 113732,
+    "local_folder": "google_scholar_button_3_1"
+  },
+  "2.0@disconnect.me": {
+    "ranking": 93,
+    "slug": "2.0@disconnect.me",
+    "version": "20.3.1.1",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3655554/disconnect-20.3.1.1.xpi",
+    "name": "Disconnect",
+    "average_daily_users": 112684,
+    "local_folder": "disconnect_20_3_1_1"
+  },
+  "{E0B8C461-F8FB-49b4-8373-FE32E9252800}": {
+    "ranking": 94,
+    "slug": "{E0B8C461-F8FB-49b4-8373-FE32E9252800}",
+    "version": "7.30.2",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4068942/evernote_web_clipper-7.30.2.xpi",
+    "name": "Evernote Web Clipper",
+    "average_daily_users": 109508,
+    "local_folder": "evernote_web_clipper_7_30_2"
+  },
+  "{58c32ac4-0d6c-4d6f-ae2c-96aaf8ffcb66}": {
+    "ranking": 95,
+    "slug": "{58c32ac4-0d6c-4d6f-ae2c-96aaf8ffcb66}",
+    "version": "1.6",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3655036/google_search_fixer-1.6.xpi",
+    "name": "Google Search Fixer",
+    "average_daily_users": 108621,
+    "local_folder": "google_search_fixer_1_6"
+  },
+  "{8AA36F4F-6DC7-4c06-77AF-5035170634FE}": {
+    "ranking": 96,
+    "slug": "{8AA36F4F-6DC7-4c06-77AF-5035170634FE}",
+    "version": "2021.4.8.5",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3759487/citavi_picker-2021.4.8.5.xpi",
+    "name": "Citavi Picker",
+    "average_daily_users": 108287,
+    "local_folder": "citavi_picker_2021_4_8_5"
+  },
+  "webapps@mendeley.com": {
+    "ranking": 97,
+    "slug": "webapps@mendeley.com",
+    "version": "3.2.78",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3999604/mendeley_web_importer-3.2.78.xpi",
+    "name": "Mendeley Web Importer",
+    "average_daily_users": 107672,
+    "local_folder": "mendeley_web_importer_3_2_78"
+  },
+  "wappalyzer@crunchlabz.com": {
+    "ranking": 98,
+    "slug": "wappalyzer@crunchlabz.com",
+    "version": "6.10.55",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4068297/wappalyzer-6.10.55.xpi",
+    "name": "Wappalyzer",
+    "average_daily_users": 106016,
+    "local_folder": "wappalyzer_6_10_55"
+  },
+  "{c45c406e-ab73-11d8-be73-000a95be3b12}": {
+    "ranking": 99,
+    "slug": "{c45c406e-ab73-11d8-be73-000a95be3b12}",
+    "version": "2.0.5",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/3484096/web_developer-2.0.5.xpi",
+    "name": "Web Developer",
+    "average_daily_users": 104010,
+    "local_folder": "web_developer_2_0_5"
+  },
+  "{c4b582ec-4343-438c-bda2-2f691c16c262}": {
+    "ranking": 100,
+    "slug": "{c4b582ec-4343-438c-bda2-2f691c16c262}",
+    "version": "1.4.0",
+    "xpi_url": "https://addons.mozilla.org/firefox/downloads/file/4031707/600_sound_volume-1.4.0.xpi",
+    "name": "600% Sound Volume",
+    "average_daily_users": 103461,
+    "local_folder": "600_sound_volume_1_4_0"
+  }
+}
