@@ -37,12 +37,12 @@ def main():
     all_locales = list(set(all_locales))
     all_locales.sort()
 
-    header = "Add-on|Avg Daily Users|Ranking|Version|Locales|"
+    header = "Add-on|Avg Daily Users|Ranking|GUID|Version|Locales|"
     header += "|".join(all_locales)
 
     csv_output = [header.split("|")]
-    for addon_data in addons_metadata.values():
-        addon_row = f"{addon_data['name']}|{addon_data['average_daily_users']}|{addon_data['ranking']}|{addon_data['version']}|{len(addon_data['locales'])}|"
+    for guid, addon_data in addons_metadata.items():
+        addon_row = f"{addon_data['name']}|{addon_data['average_daily_users']}|{addon_data['ranking']}|{guid}|{addon_data['version']}|{len(addon_data['locales'])}|"
         for loc in all_locales:
             addon_row += "X|" if loc in addon_data["locales"] else "|"
         csv_output.append(addon_row.split("|"))
